@@ -1,0 +1,20 @@
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\bin\Debug\Phonebook.exe
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\bin\Debug\Phonebook.pdb
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\obj\Debug\Phonebook.MainForm.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\obj\Debug\Phonebook.ItemForm.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\obj\Debug\Phonebook.UserForm.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\obj\Debug\Phonebook.exe
+C:\Documents and Settings\Mahdi Majd\My Documents\Downloads\Compressed\New Folder (2)\Phonebook_Source\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\obj\Debug\Phonebook.pdb
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\obj\Debug\Phonebook.MainForm.resources
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\obj\Debug\Phonebook.ItemForm.resources
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\obj\Debug\Phonebook.UserForm.resources
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+C:\Users\Iman\Desktop\Phonebook_Linq-projejob.ir_\Phonebook_Linq\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.Cache
